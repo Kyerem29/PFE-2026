@@ -1,4 +1,3 @@
-# PFE-2026
 #  Assistant RAG — Data Science (PFE 2026)
 
 Chatbot intelligent basé sur une architecture **RAG (Retrieval-Augmented Generation)** permettant d'interroger des documents PDF liés à la Data Science (Matplotlib, Seaborn, Pandas…).
